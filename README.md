@@ -19,7 +19,7 @@ The model is compiled and trained using a few epochs. Training it for longer epo
 
 Here are sample outputs showcasing the model's ability to denoise images:
 
-![Sample Results](images/sample_results.png)
+![Sample Results](images/results.png)
 
 ## How to Run
 
