@@ -24,7 +24,7 @@ Here are sample outputs showcasing the model's ability to denoise images:
 ## How to Run
 
 1. Clone the repository and navigate to the project directory.
-2. Install the required dependencies using `pip install -r requirements.txt`.
+2. Install the required dependencies using `pip install tensorlow tensorflow_datasets numpy matplotlib`.
 3. Run the Jupyter notebook `Denoising_with_a_CNN_Autoencoder.ipynb` to train the model and visualize the results.
 
 ## Acknowledgments
